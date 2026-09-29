@@ -1,0 +1,34 @@
+# Концепция развития. Нетривиальный взгляд на эволюцию (Владлен В.К.)
+
+> Этот файл (llms.txt) — стандарт для LLM-агентов: краткая карта сайта, чтобы ИИ-ассистенты могли быстро найти нужные страницы. Подробнее: https://llmstxt.org/
+
+## О проекте
+
+Книга «Концепция развития. Нетривиальный взгляд на эволюцию» (Владлен В.К., М.: Прометей, 2022, 336 с., ISBN 978-5-00172-246-5, лицензия CC BY 4.0) излагает универсальный принцип саморазвития реальности через отношения содержания и формы. Четыре статьи: концепция развития, мировые константы, критерий истины, уроки диалектики.
+
+## Основные страницы
+
+- [Главная страница](https://wladlenvk-crypto.github.io/koncepciya-razvitiya/): обзор концепции, аннотация, ключевые тезисы
+- [Полный текст книги](https://wladlenvk-crypto.github.io/koncepciya-razvitiya/book_full_text.html): весь текст 218 стр. одной страницей (для краулеров)
+- [English Summary](https://wladlenvk-crypto.github.io/koncepciya-razvitiya/en_summary.html): английский конспект для AI/RAG-систем
+- [Презентация](https://wladlenvk-crypto.github.io/koncepciya-razvitiya/presentation.html): слайды-обзор концепции
+
+## Статьи книги (по главам)
+
+- [Статья 1. Концепция развития: основополагающий принцип](https://wladlenvk-crypto.github.io/koncepciya-razvitiya/book_part1.html)
+- [Статья 2. Природа и смысл мировых констант](https://wladlenvk-crypto.github.io/koncepciya-razvitiya/book_part2.html)
+- [Статья 3. Универсальный критерий истины](https://wladlenvk-crypto.github.io/koncepciya-razvitiya/book_part3.html)
+- [Статья 4. Невыученные уроки диалектики (часть 1)](https://wladlenvk-crypto.github.io/koncepciya-razvitiya/book_part4.html)
+- [Статья 4. Невыученные уроки диалектики (часть 2)](https://wladlenvk-crypto.github.io/koncepciya-razvitiya/book_part5.html)
+
+## Внешние источники
+
+- Zenodo (DOI 10.5281/zenodo.19922255): https://zenodo.org/records/19922255
+- Archive.org: https://archive.org/details/evolution-concept-advanced
+- PhilPapers: https://philpapers.org/go.pl?aid=VLAKRN
+- Academia.edu: https://www.academia.edu/144054387/Evolution_Concept_Advanced
+- Видеотрейлер: https://www.youtube.com/watch?v=V06B1mDMngI
+
+## Лицензия
+
+Весь контент — CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Автор: Владлен В.К.
