@@ -12,6 +12,8 @@
 - [Полный текст книги](https://wladlenvk-crypto.github.io/koncepciya-razvitiya/book_full_text.html): весь текст 218 стр. одной страницей (для краулеров)
 - [English Summary](https://wladlenvk-crypto.github.io/koncepciya-razvitiya/en_summary.html): английский конспект для AI/RAG-систем
 - [Презентация](https://wladlenvk-crypto.github.io/koncepciya-razvitiya/presentation.html): слайды-обзор концепции
+- [Интерактивный поиск по книге](https://wladlenvk-evolution-concept-search.static.hf.space): BM25-поиск по полному тексту в браузере (Hugging Face Space)
+- [Датасет на Hugging Face](https://huggingface.co/datasets/WladlenVK/evolution-concept-development): 4 статьи в JSONL для RAG-систем
 
 ## Статьи книги (по главам)
 
