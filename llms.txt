@@ -9,7 +9,8 @@
 ## Основные страницы
 
 - [Главная страница](https://wladlenvk-crypto.github.io/koncepciya-razvitiya/): обзор концепции, аннотация, ключевые тезисы
-- [Полный текст книги](https://wladlenvk-crypto.github.io/koncepciya-razvitiya/book_full_text.html): весь текст 218 стр. одной страницей (для краулеров)
+- [Полный текст книги (HTML)](https://wladlenvk-crypto.github.io/koncepciya-razvitiya/book_full_text.html): весь текст 218 стр. одной страницей (для краулеров)
+- [Полный текст книги (llms-full.txt)](https://wladlenvk-crypto.github.io/koncepciya-razvitiya/llms-full.txt): весь текст в формате llmstxt.org (для LLM-агентов)
 - [English Summary](https://wladlenvk-crypto.github.io/koncepciya-razvitiya/en_summary.html): английский конспект для AI/RAG-систем
 - [Презентация](https://wladlenvk-crypto.github.io/koncepciya-razvitiya/presentation.html): слайды-обзор концепции
 - [Интерактивный поиск по книге](https://wladlenvk-evolution-concept-search.static.hf.space): BM25-поиск по полному тексту в браузере (Hugging Face Space)
