@@ -31,6 +31,7 @@
 
 ## Ссылки на первоисточники
 
+- **Сайт-визитка (веб-версия):** https://wladlenvk-crypto.github.io/koncepciya-razvitiya/
 - **Zenodo (DOI):** https://zenodo.org/records/19922255
 - **PhilPapers:** https://philpapers.org/go.pl?aid=VLAKRN
 - **Archive.org:** https://archive.org/details/evolution-concept-advanced
@@ -86,6 +87,7 @@ The concept is based on the awareness of the significance and role of the relati
 
 ### Source Links
 
+- **Website (web version):** https://wladlenvk-crypto.github.io/koncepciya-razvitiya/
 - **Zenodo (DOI):** https://zenodo.org/records/19922255
 - **PhilPapers:** https://philpapers.org/go.pl?aid=VLAKRN
 - **Archive.org:** https://archive.org/details/evolution-concept-advanced
