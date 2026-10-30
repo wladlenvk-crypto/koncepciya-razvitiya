@@ -1,4 +1,23 @@
 User-agent: *
 Allow: /
 
+# Явные разрешения для ИИ-краулеров (Common Crawl ускорение)
+User-agent: CCBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
 Sitemap: https://wladlenvk-crypto.github.io/koncepciya-razvitiya/sitemap.xml
