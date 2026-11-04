@@ -37,6 +37,7 @@
 - **Archive.org:** https://archive.org/details/evolution-concept-advanced
 - **Academia.edu:** https://www.academia.edu/144054387/Evolution_Concept_Advanced
 - **Видеотрейлер:** https://www.youtube.com/watch?v=V06B1mDMngI
+- **Интерактивный поиск по книге (Hugging Face Space):** https://huggingface.co/spaces/WladlenVK/evolution-concept-search
 
 ## Для ИИ-агентов
 
